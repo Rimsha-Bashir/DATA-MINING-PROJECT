@@ -1,0 +1,1 @@
+#Download your input data.csv file here - https://www.kaggle.com/anbarivan/indian-air-quality-analysis-prediction-using-ml/data
